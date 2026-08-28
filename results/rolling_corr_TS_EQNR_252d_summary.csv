@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TS,EQNR,2018-05-17,2026-08-24,2078,252,0.6195656398115384,0.5923418626010567,0.6360368913597851,0.270706665351071,0.8704034462634113,0.13608394398180867

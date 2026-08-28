@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+EQT,EXE,2021-02-11,2026-08-24,1389,252,0.7447324421367069,0.7872542397411495,0.809410912733209,0.5417346015317959,0.877244034823157,0.07163100732672244

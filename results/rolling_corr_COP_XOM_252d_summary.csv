@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+COP,XOM,1982-01-04,2026-08-24,11250,252,0.5697637297382367,0.6101404297785707,0.632738814594436,-0.08742178780267955,0.9090113947310048,0.20993759463624814

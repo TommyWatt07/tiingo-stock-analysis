@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TTE,BP,2007-07-16,2026-08-24,4718,252,0.29494706364901385,0.35043150319124705,0.37735859024718577,-0.27715438174381457,0.7549777188712522,0.20906461573294452

@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TS,WDS,2007-07-16,2026-08-24,4806,252,0.5819029279633747,0.5203061427219488,0.5258203101892222,0.24823015920751612,0.7594815626495925,0.11986128611562805

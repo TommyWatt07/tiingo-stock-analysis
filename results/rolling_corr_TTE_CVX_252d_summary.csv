@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TTE,CVX,2007-07-16,2026-08-24,4718,252,0.24825133516391398,0.3156574664979442,0.33079100136182427,-0.2574669853738952,0.7199018938930932,0.16727720795885503

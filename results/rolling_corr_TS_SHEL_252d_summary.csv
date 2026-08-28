@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TS,SHEL,2002-12-17,2026-08-24,5958,252,0.6375687597869503,0.5975802775913184,0.6334225011257948,0.0747663253385532,0.8171585977032102,0.14980804827395183

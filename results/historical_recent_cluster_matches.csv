@@ -1,0 +1,3 @@
+historical_cluster,recent_cluster,historical_size,recent_size,shared_stocks,jaccard_similarity,historical_retention,recent_purity,shared_tickers
+2,1,11,37,11,0.2972972972972973,1.0,0.2972972972972973,CNQ|COP|CVE|CVX|DVN|EOG|FANG|IMO|OXY|SU|XOM
+9,2,1,1,1,1.0,1.0,1.0,CCJ

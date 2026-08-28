@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TS,XOM,2002-12-17,2026-08-24,5958,252,0.6181524111816448,0.57865018318851,0.5915156181675962,0.02690905261109077,0.8006391436711878,0.13747443903406548

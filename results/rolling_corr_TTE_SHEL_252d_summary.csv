@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TTE,SHEL,2007-07-16,2026-08-24,4718,252,0.3127207894965011,0.3862384397213719,0.39456751070936047,-0.2807645772281932,0.7900645478666232,0.1961028826623987

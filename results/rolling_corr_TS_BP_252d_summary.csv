@@ -1,0 +1,2 @@
+ticker_1,ticker_2,start_date,end_date,observations,window,full_period_correlation,mean_rolling_correlation,median_rolling_correlation,min_rolling_correlation,max_rolling_correlation,rolling_correlation_std
+TS,BP,2002-12-17,2026-08-24,5958,252,0.6223718809006964,0.5906425313589639,0.6255587874954791,0.05838583151978913,0.829399141300758,0.15076223829111227
